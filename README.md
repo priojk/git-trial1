@@ -7,3 +7,5 @@ Sources:
 2 Videos from Packtpub
 
 2 books
+
+Examples with code and Word documents.
